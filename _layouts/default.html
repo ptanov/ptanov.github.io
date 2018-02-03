@@ -2,6 +2,9 @@
 <html>
   <head>
     <title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.name }} – {{ site.description }}</title>
+    {% if site.tags != "" %}
+      {% include tags-collect.html %}
+    {% endif %}
 
     {% include meta.html %}
 
