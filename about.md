@@ -1,15 +1,10 @@
 ---
 layout: page
-title: About
+title: За блога
 permalink: /about/
 ---
+Напълно съм наясно, че този блог е прекалено общ и обхваща много разнородни теми (макар и в началото да не е така) и няма как да има човек, за който всички те да са полезни, но все на някой може да му е от полза информацията в него. Имайте предвид, че информацията тук е повърхностна, на научно-популярно ниво и не се навлиза в детайли.
 
-Some information about you!
+Ще се старая към всеки пост да описвам какво е моето ниво по темата за да може човек да се ориентира по-лесно дали съдържанието ще му върши работа.
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+Jekyll темата, която се ползва в този блог е: [jekyll now](http://www.jekyllnow.com/)
