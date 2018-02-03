@@ -51,3 +51,5 @@ direct copy: [   ] osm_generic_gmapsupp.zip  88M  Compressed file containing a s
 # Как да направим сами Garmin карта от Openstreet maps
 TODO - в отделен пост
 
+# Сайтове с маршрути
+ - [Създаване/споделяне на маршрути]({% post_url 2018-02-03-routes %}#други-сайтове-с-маршрути)
