@@ -51,5 +51,8 @@ direct copy: [   ] osm_generic_gmapsupp.zip  88M  Compressed file containing a s
 # Как да направим сами Garmin карта от Openstreet maps
 TODO - в отделен пост
 
+# Карти за телефон (iPhone/Android)
+За iOS и Андроид има много приятно приложение за карти - [MAPS.me](https://maps.me/download/) (освен [komoot]({% post_url 2018-02-03-routes %}#komoot)), за Андроид има друго приложение с много функционалност, но дървен интерфейс - [oruxmaps](http://www.oruxmaps.com/cs/en/more/downloads) (някой път бих писал по-подробно за него и функционалността му, например как без Интернет да имаш Google satellite images) - кратко описание: <http://planinar.org/bgmountains-%D0%BA%D0%B0%D1%80%D1%82%D0%B0-%D0%B7%D0%B0-android/>.
+
 # Сайтове с маршрути
  - [Създаване/споделяне на маршрути]({% post_url 2018-02-03-routes %}#други-сайтове-с-маршрути)
