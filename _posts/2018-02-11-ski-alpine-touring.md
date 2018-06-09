@@ -73,6 +73,7 @@ categories: ski
  - <https://www.facebook.com/groups/387052298125155>
  - <https://www.facebook.com/groups/724802550999982/about/>
  - [Swissski](https://www.facebook.com/pg/Swissski-1649159598652421/about/?ref=page_internal)
+ - [Schindler Ski](https://www.facebook.com/Schindler-Ski-Gmbh-%D0%A8%D0%B8%D0%BD%D0%B4%D0%BB%D0%B5%D1%80-%D1%81%D0%BA%D0%B8-%D0%95%D0%9E%D0%9E%D0%94-778829698829284/?hc_location=ufi)
  - Евентуално в магазините, например <http://go.redrockbg.com/> или <https://www.alpinsport-bg.com/> и други (но съм чувал, че е по-стара и по-скъпа обикновено)
  - <http://skiborsa.com>
  - ‎Нови: <https://www.sport-conrad.com>, [stormshop](http://stormshop.bg/), [BaseCamp](https://www.basecamp-shop.com/), [skisharki](https://www.skisharki.bg/), <http://namaste-bg.com>, <https://www.sls.bg/>, <https://www.blue-tomato.com/en-GB/>, <http://adventure-shop.bg/>, <https://www.sport-bittl.com/en/>, <https://www.glisshop.co.uk/> и други
