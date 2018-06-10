@@ -1,0 +1,7 @@
+h1 > a {
+	color: $blue;
+	cursor: pointer;
+	&:hover, &:active {
+		color: $blue;
+	}
+}
