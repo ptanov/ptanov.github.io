@@ -7,4 +7,4 @@ permalink: /about/
 
 Ще се старая към всеки пост да описвам какво е моето ниво по темата за да може човек да се ориентира по-лесно дали съдържанието ще му върши работа.
 
-Jekyll темата, която се ползва в този блог е: [jekyll now](http://www.jekyllnow.com/), системата за тагове e базирана на [jekyll-tag](http://longqian.me/2017/02/09/github-jekyll-tag/), хоства се от github на <https://blog.plamen.name/>.
+Jekyll темата, която се ползва в този блог е: [jekyll now](http://www.jekyllnow.com/), системата за тагове e базирана на [jekyll-tag](http://longqian.me/2017/02/09/github-jekyll-tag/), изходният код може да бъде видян на <https://github.com/ptanov/ptanov.github.io>, а самият блог на <https://blog.plamen.name/> (изпълнява се на github).
