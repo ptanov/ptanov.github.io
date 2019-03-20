@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Приложения за работа с GPS координати, създаване/споделяне на маршрути (gpx)
-tags: tourism routes gps gpx openstreetmap garmin komoot strava
+tags: tourism routes gps gpx openstreetmap garmin komoot strava software
 categories: tourism
 ---
 Различни полезни приложения/команди за работа с GPS/gpx и допълнителен софтуер, който ползвам, когато искам да създам или споделя маршрут
@@ -48,6 +48,9 @@ categories: tourism
  - linux app for visualization of tracks + images - [GPS prune](https://wiki.openstreetmap.org/wiki/GpsPrune)
  - сваляне на записани данни от [Holux M-241](https://wiki.openstreetmap.org/wiki/Holux_M-241) `gpsbabel -r -w -t -i m241 -f /dev/ttyUSB0 -o gpx -F track.gpx` (run with sudo if you don't have access to USB ports)
  - добавяне на GPS координати към снимки на базата на часа на снимката и записан маршрут (gpx) `exiftool -geotag *.gpx *.jpg` или `gpscorrelate -g track.gpx  -O -10800 *.jpg`
+
+# Синхронизиране на метаданните на снимки с GPS координати (по време)
+ - [примери с ExifTool]({% post_url 2019-03-20-exiftool %})
 
 # Карта на България
  Съществуват няколко подробни карти за България:
