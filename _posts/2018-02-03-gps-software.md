@@ -47,7 +47,8 @@ categories: tourism
 # Други приложения и команди
  - linux app for visualization of tracks + images - [GPS prune](https://wiki.openstreetmap.org/wiki/GpsPrune)
  - сваляне на записани данни от [Holux M-241](https://wiki.openstreetmap.org/wiki/Holux_M-241) `gpsbabel -r -w -t -i m241 -f /dev/ttyUSB0 -o gpx -F track.gpx` (run with sudo if you don't have access to USB ports)
- - добавяне на GPS координати към снимки на базата на часа на снимката и записан маршрут (gpx) `exiftool -geotag *.gpx *.jpg` или `gpscorrelate -g track.gpx  -O -10800 *.jpg`
+ - добавяне на GPS координати към снимки на базата на часа на снимката и записан маршрут (gpx) `exiftool -geotag *.gpx *.jpg` или `gpscorrelate -g track.gpx  -O -10800 *.jpg`, други [примери с ExifTool]({% post_url 2019-03-20-exiftool %}).
+ - обединяване на GPS координати (gpx файл) и пулс (heart rate) от MiBand 3 (csv файл) [сорс код](https://github.com/ptanov/gpxmergeheartrate): `docker run --rm -it -v /etc/timezone:/etc/timezone:ro -v "$(pwd)":/data ptanov/gpxmergeheartrate Day* Ex* out && cp out "out.gpx" && rm -f out`
 
 # Синхронизиране на метаданните на снимки с GPS координати (по време)
  - [примери с ExifTool]({% post_url 2019-03-20-exiftool %})
