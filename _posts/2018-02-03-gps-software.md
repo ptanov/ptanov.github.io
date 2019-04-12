@@ -36,7 +36,7 @@ categories: tourism
  - <https://www.nicetrails.com/app/> - 3D визуализация на маршрут
  - [FatMap](http://fatmap.com) - много полезна карта, с анализ на склонове във връзка с лавинната безопастност и планирането на маршрут (ориентация, наклон, т.н.). Също така има маршрути с описания, макар и малко
  - <http://www.gpsvisualizer.com/> - import and convert of multiple sources, web gps babel
- - <https://tripsjournal.com/marshruti> - добре подредени и описани маршрути в България
+ - <https://tripsjournal.com/marshruti> - добре подредени и описани маршрути в България, например [маршрути до всички първенци на съответните планини](https://tripsjournal.com/marshruti-do-balgarskite-planinski-parventsi)
  - [GaiaGPS](https://www.gaiagps.com) - подреждане на маршрути в папки, визуализиране на цяла папка с маршрути върху карта
  - <https://www.gps-tour.info>
  - <http://www.gpsies.com/>
@@ -46,6 +46,7 @@ categories: tourism
 
 # Други приложения и команди
  - linux app for visualization of tracks + images - [GPS prune](https://wiki.openstreetmap.org/wiki/GpsPrune)
+ - приложение за бързо разглеждане и категоризиране на снимки [geeqie](http://www.geeqie.org/) и разбира се [Google Photos](https://photos.google.com) - лесно се търси по места и съдържание на снимките (например, [сняг](https://photos.google.com/search/%D1%81%D0%BD%D1%8F%D0%B3)).
  - сваляне на записани данни от [Holux M-241](https://wiki.openstreetmap.org/wiki/Holux_M-241) `gpsbabel -r -w -t -i m241 -f /dev/ttyUSB0 -o gpx -F track.gpx` (run with sudo if you don't have access to USB ports)
  - добавяне на GPS координати към снимки на базата на часа на снимката и записан маршрут (gpx) `exiftool -geotag *.gpx *.jpg` или `gpscorrelate -g track.gpx  -O -10800 *.jpg`, други [примери с ExifTool]({% post_url 2019-03-20-exiftool %}).
  - обединяване на GPS координати (gpx файл) и пулс (heart rate) от MiBand 3 (csv файл) [сорс код](https://github.com/ptanov/gpxmergeheartrate): `docker run --rm -it -v /etc/timezone:/etc/timezone:ro -v "$(pwd)":/data ptanov/gpxmergeheartrate Day* Ex* out && cp out "out.gpx" && rm -f out`
