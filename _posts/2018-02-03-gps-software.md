@@ -53,7 +53,7 @@ categories: tourism
 - приложение за бързо разглеждане и категоризиране на снимки [geeqie](http://www.geeqie.org/) и разбира се [Google Photos](https://photos.google.com) - лесно се търси по места и съдържание на снимките (например, [сняг](https://photos.google.com/search/%D1%81%D0%BD%D1%8F%D0%B3)).
 - сваляне на записани данни от [Holux M-241](https://wiki.openstreetmap.org/wiki/Holux_M-241) `gpsbabel -r -w -t -i m241 -f /dev/ttyUSB0 -o gpx -F track.gpx` (run with sudo if you don't have access to USB ports)
 - добавяне на GPS координати към снимки на базата на часа на снимката и записан маршрут (gpx) `exiftool -geotag *.gpx *.jpg` или `gpscorrelate -g track.gpx  -O -10800 *.jpg`, други [примери с ExifTool]({% post_url 2019-03-20-exiftool %}).
-- обединяване на GPS координати (gpx файл) и пулс (heart rate) от MiBand 3 (csv файл) [сорс код](https://github.com/ptanov/gpxmergeheartrate): `docker run --rm -it -v /etc/timezone:/etc/timezone:ro -v "$(pwd)":/data ptanov/gpxmergeheartrate Day* Ex* out && cp out "out.gpx" && rm -f out`
+- обединяване на GPS координати (gpx файл) и пулс (heart rate) от MiBand 3 (csv файл) посредством [GPX Merge Heartrate](https://github.com/ptanov/gpxmergeheartrate), [сорс код](https://github.com/ptanov/gpxmergeheartrate): `docker run --rm -it -v /etc/timezone:/etc/timezone:ro -v "$(pwd)":/data ptanov/gpxmergeheartrate *.gpx *.csv out && cp out "${PWD##*/}.gpx" && rm -f out`
 
 # Синхронизиране на метаданните на снимки с GPS координати (по време)
 
