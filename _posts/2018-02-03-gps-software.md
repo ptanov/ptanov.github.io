@@ -35,6 +35,12 @@ categories: tourism
 
 Разликата между [komoot](http://komoot.com) и [strava](http://strava.com) (освен всичко друго) е че едното е специализирано в измерването на спортните постижения и мотивацията на спортистта, а другото - към откриването на нови приятни места и маршрути... За това за маршрути ползвам komoot, а за неща свързани с натоварване бих ползвал strava, където можеш да гледаш различните сегменти и да сравняваш представянето си с останалите (например, <https://www.strava.com/segments/13828544?filter=overall>)... Алтернатива на strava е [endomondo](http://endomondo.com). Иначе и тук има възможност за [създаване на маршрут](https://www.strava.com/routes/new) както и разглеждане на [heatmap](https://www.strava.com/heatmap#14.34/23.28999/42.58066/hot/winter) - къде спортуват хората най-често, например: [зимни спортове на Витоша](https://www.strava.com/heatmap#14.34/23.28999/42.58066/hot/winter)
 
+# Карти за телефон (iPhone/Android)
+
+За iOS и Андроид има много приятно и лесно за ползване приложение за карти - [MAPS.me](https://maps.me/download/) (освен [komoot](#komoot)) - картите се свалят и работи и без Интернет, за Андроид има друго приложение с много функционалност, но дървен интерфейс (все едно е писано само от програмист, без дизайнер) - [oruxmaps](http://www.oruxmaps.com/cs/en/more/downloads) ([donate](https://play.google.com/store/apps/details?id=com.orux.oruxmapsDonate)) (някой път бих писал по-подробно за него и функционалността му, например как без Интернет да имаш Google satellite images, http://kade.si, как да се ползва с карти за Гармин и т.н.) - [кратко описание](http://planinar.org/bgmountains-%D0%BA%D0%B0%D1%80%D1%82%D0%B0-%D0%B7%D0%B0-android/), [подробно описание](http://planina.e-psylon.net/viewtopic.php?t=13310). Друга (за iPhone/Android) е [windy maps](https://www.windy.com/maps) - доста приятна за ползване, но е нова и не съм си играл много, windy имат и хубаво приложение за [Прогноза за времето]({% post_url 2018-02-04-tourism %}#прогноза-за-времето).
+
+Други приложения, които си заслужават: [mapy.cz](https://en.mapy.cz/zakladni?x=23.3167000&y=42.6833000&z=9&mobilepromo=1)
+
 # Други сайтове с маршрути, карти и статистика
 
 - <http://planina.e-psylon.net/viewtopic.php?p=139840#139840> - списък с повече пояснения за komoot, strava, gaiagps
@@ -101,12 +107,6 @@ direct copy: [   ] osm_generic_gmapsupp.zip  88M  Compressed file containing a s
 # Как да направим сами Garmin карта от Openstreet maps
 
 TODO - в отделен пост
-
-# Карти за телефон (iPhone/Android)
-
-За iOS и Андроид има много приятно приложение за карти - [MAPS.me](https://maps.me/download/) (освен [komoot](#komoot)), за Андроид има друго приложение с много функционалност, но дървен интерфейс - [oruxmaps](http://www.oruxmaps.com/cs/en/more/downloads) (някой път бих писал по-подробно за него и функционалността му, например как без Интернет да имаш Google satellite images) - [кратко описание](http://planinar.org/bgmountains-%D0%BA%D0%B0%D1%80%D1%82%D0%B0-%D0%B7%D0%B0-android/), [подробно описание](http://planina.e-psylon.net/viewtopic.php?t=13310).
-
-Други приложения, които си заслужават: [mapy.cz](https://en.mapy.cz/zakladni?x=23.3167000&y=42.6833000&z=9&mobilepromo=1)
 
 # Прогноза за времето
 
