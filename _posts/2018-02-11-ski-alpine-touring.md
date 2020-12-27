@@ -112,6 +112,7 @@ categories: ski
 
 # Екипировка втора употреба
 
+- под наем, за да пробвате: [sofiarentcenter](https://sofiarentcenter.com/%D1%81%D0%BA%D0%B8.html), [basecamp](https://basecamp-shop.com/page/service), [nomadia](http://www.nomadia.bg/bg_BG/index/rent), [wowgadgets](https://www.wowgadgets.shop/store/%D0%BD%D0%B0%D0%B5%D0%BC-%D0%B7%D0%B0-%D1%81%D0%BF%D0%BE%D1%80%D1%82/), [redrock - не съм сигурен](https://redrockbg.com/product/%D1%82%D1%83%D1%80%D0%B8%D0%BD%D0%B3-%D1%81%D0%BA%D0%B8-%D0%BF%D0%B0%D0%BD%D1%82%D0%B8-%D0%B2%D1%82%D0%BE%D1%80%D0%B0-%D1%83%D0%BF%D0%BE%D1%82%D1%80%D0%B5%D0%B1%D0%B0/)
 - <https://www.befsa.com/forum/forumdisplay.php?f=4>
 - <https://www.facebook.com/groups/387052298125155>
 - <https://www.facebook.com/groups/724802550999982/about/>
@@ -120,5 +121,5 @@ categories: ski
 - [Schindler Ski](https://www.facebook.com/Schindler-Ski-Gmbh-%D0%A8%D0%B8%D0%BD%D0%B4%D0%BB%D0%B5%D1%80-%D1%81%D0%BA%D0%B8-%D0%95%D0%9E%D0%9E%D0%94-778829698829284/?hc_location=ufi)
 - Евентуално в магазините, например <http://go.redrockbg.com/> или <https://www.alpinsport-bg.com/> и други (но съм чувал, че е по-стара и по-скъпа обикновено)
 - <http://skiborsa.com>
-- от чужбина (използвайки [leron](https://www.leron.bg/), [uktobg](https://www.uktobg.com/), [dostavka-anglia](http://www.dostavka-anglia.com/) за по-евтина доставка): <https://ebay-kleinanzeigen.de/>, ebay.de|es|co.uk, т.н.
-- ‎Нови: <https://www.sport-conrad.com>, [stormshop](http://stormshop.bg/), [BaseCamp](https://www.basecamp-shop.com/), [skisharki](https://www.skisharki.bg/), <http://namaste-bg.com>, <https://www.sls.bg/>, <https://www.blue-tomato.com/en-GB/>, <http://adventure-shop.bg/>, <https://www.sport-bittl.com/en/>, <https://www.glisshop.co.uk/> и други
+- от чужбина <https://ebay-kleinanzeigen.de/>, ebay(.de,.es,.co.uk), т.н. - ползвайте [leron](https://www.leron.bg/), [uktobg](https://www.uktobg.com/), [dostavka-anglia](http://www.dostavka-anglia.com/) за по-евтина доставка
+- Нови: <https://www.sport-conrad.com>, [stormshop](http://stormshop.bg/), [BaseCamp](https://www.basecamp-shop.com/), [skisharki](https://www.skisharki.bg/), <http://namaste-bg.com>, <https://www.sls.bg/>, <https://www.blue-tomato.com/en-GB/>, <http://adventure-shop.bg/>, <https://www.sport-bittl.com/en/>, <https://www.glisshop.co.uk/> и други
