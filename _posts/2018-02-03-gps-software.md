@@ -44,12 +44,15 @@ categories: tourism
 # Други сайтове с маршрути, карти и статистика
 
 - <http://planina.e-psylon.net/viewtopic.php?p=139840#139840> - списък с повече пояснения за komoot, strava, gaiagps
+- <https://it-maps.iskartour.com/bg/%D0%B8%D0%BD%D1%82%D0%B5%D0%B0%D0%BA%D1%82%D0%B8%D0%B2%D0%BD%D0%B0-%D0%B4%D0%B5%D1%82%D0%B0%D0%B9%D0%BB%D0%BD%D0%B0-%D0%BA%D0%B0%D1%80%D1%82%D0%B0-it-maps/> - детайлна карта на България и много маршрути по [регион](https://it-maps.iskartour.com/en/mountain-routes-tracks-regions/), [тип активност/дейност](https://it-maps.iskartour.com/en/activities-mountain-routes-tracks/), [сезон](https://it-maps.iskartour.com/en/seasons-mountain-routes-tracks/)
 - <http://www.mygpsfiles.com/app/> - визуализиране (и споделяне) на много маршрути (gpx) на една карта
+- <http://www.graphmyhike.com/> - статистика за изминат маршрут
 - <http://www.ibpindex.com/index.php/en/> - определяне на трудност на маршрут
 - <http://www.javawa.nl/analyser.html>, <https://geo.javawa.nl/trackanalyse/index.php?lang=en> - статистика за маршрут
 - <https://www.nicetrails.com/app/> - 3D визуализация на маршрут
 - <https://link.ui.com/>, <https://www.heywhatsthat.com/> - какво се вижда от дадено място ([източник на линковете](https://www.facebook.com/groups/226331370759538/permalink/2692711380788179/))
-- [FatMap](http://fatmap.com) - много полезна карта, с анализ на склонове във връзка с лавинната безопастност и планирането на маршрут (ориентация, наклон, т.н.). Също така има маршрути с описания, макар и малко
+- <https://www.solwise.co.uk/wireless-elevationtool.html> - какъв е релефът между две точки и дали има пряка видимост
+- [FatMap](http://fatmap.com) - много полезна карта, с анализ на склонове във връзка с лавинната безопастност и планирането на маршрут (ориентация, наклон, т.н.). Също така има маршрути с описания, макар и малко за сега
 - [caltopo](https://caltopo.com/map.html#ll=42.57014,23.28244&z=16&b=mbt&a=cm20%2Csf%2Cwater%2Cwx) - карта с много възможности за настройка - релеф с градуси (DEM shading) и други.
 - <http://www.gpsvisualizer.com/> - import and convert of multiple sources, web gps babel
 - <https://tripsjournal.com/marshruti> - добре подредени и описани маршрути в България, например [маршрути до всички първенци на съответните планини](https://tripsjournal.com/marshruti-do-balgarskite-planinski-parventsi)
@@ -79,6 +82,7 @@ categories: tourism
 Съществуват няколко подробни карти за България:
 
 - bgmountains <http://kade.si> <http://bgmountains.org>, безплатна
+- iskartour <https://it-maps.iskartour.com/bg/%D0%B8%D0%BD%D1%82%D0%B5%D0%B0%D0%BA%D1%82%D0%B8%D0%B2%D0%BD%D0%B0-%D0%B4%D0%B5%D1%82%D0%B0%D0%B9%D0%BB%D0%BD%D0%B0-%D0%BA%D0%B0%D1%80%D1%82%D0%B0-it-maps/>, освен хартиена карта, предлагат и много добра карта онлайн
 - openstreet map <http://openstreetmap.org>, безплатна, лесна за редакция
 - <http://karta.bg>, платена
 
@@ -88,21 +92,22 @@ categories: tourism
 
 # Сваляне на карти за Гармин
 
-- <http://www.wanderreitkarte.de/garmin_de.php> с цветовете на маркираните пътеки, но на немски
-- bgmountains: <http://bgmountains.org/en/maps/garmin-maps/category/9-bgmountains>
+## Безплатни карти
 
-  > Full version for MS Windows, BGMountains 20170706 Cyr direct copy: Full version for direct upload into the receiver BGMountains 20170706 Cyr IMG
+Информацията е за Dakota 20, но предполагам, че важи за всички Garmin - свалянето на карти от други безплатни източници (различни рендери на open street maps, bg mountains и други) става лесно - под линукс сваляш един архив и го разархивираш на устройството в определена папка, а под уиндоус имаш възможност да свалиш и .exe, което като стартираш да регистрира картата в basecamp (или което беше последното приложение на Гармин, защото те направиха ново по едно време), а от там то да я качи на устройството. Т.е. тези безплатни карти могат да се качват свободно на устройството. Ето няколко линка:
+ - <https://bgmountains.org/en/maps/garmin-maps/category/9-bgmountains> - bg mountains, kade.si - няма нужда от представяне (най-подробната за България)
+ - <https://wiki.openstreetmap.org/wiki/OSM_Map_On_Garmin/Download> - по принцип с данните от опенстрийт мапс се правят множество различни карти в зависимост от приложението - за пешеходен туризъм, за велопоходи, за ски, атв, т.н. и в зависимост от дейността се изобразяват (render) различни елементи от картата при различен мащаб (zoom). За това и има толкова различни опции на линка по-горе. За мен е важно да има контурните линии (но това може да се добави като отделна карта ако устройстовото дава възможност за зареждане на две карти едновременно). В линка има карти и за вело маршрути (потърси в текста velo и/или cycle и/или mtb)
+ - <https://www.wanderreitkarte.de/garmin_de.php> - много приятна карта (базирана на openstreetmaps), в която има цветовете на маркировката, но няма рутиране (и може и да е на немски на места)
+ - <https://garmin.opentopomap.org/> - друга базирана на openstreetmaps
+ - <http://garmin.openstreetmap.nl/> - трета базирана на opensteetmaps
 
-- openstreet map: <https://wiki.openstreetmap.org/wiki/OSM_Map_On_Garmin/Download> - <http://garmin.openstreetmap.nl/>
+В общи линии въпреки, че имам OFRM като гледам не съм я обновявал от няколко години, защото ползвам предимно openstreet maps, но това е защото преди преход проверявам къде има пътеки, правя си маршрут и различни варианти към него в зависимост от моментната обстановка и после го/ги следвам. Различните карти (освен всички останали източници) ги ползвам за да се осведомя предварително дали мястото е проходимо още на компютъра като съм (примерно пътека я има в openstreetmaps, но я няма в bgmountains или е много тънка чертичката или обратното - имам едно наум да потърся дали мястото действително е проходимо към момента)
 
- > bulgaria without typ
-[   ] osm_generic_windows.exe   92M  Map installer for BaseCamp / MapSource on the Windows platform.
-<http://osm.pleiades.uni-wuppertal.de/garmin/generic/20-08-2017/546c7030f55760a3175a43f6744f6972/>
-direct copy: [   ] osm_generic_gmapsupp.zip  88M  Compressed file containing a single image that can be placed directly onto the SD-card of the GPS. Unzip first!
+## OFRM karta.bg
 
-- karta.bg <https://support.karta.bg/?mod=licenses-manual>
-
- > Посетете www.karta.bg и влезте във Вашия потребителски профил от "Вход" в горния десен ъгъл на екрана. Главен файл, съдържащ картата TOPO LAT GPS
+- [karta.bg](https://support.karta.bg/?mod=licenses-manual)
+  - Посетете www.karta.bg и влезте във Вашия потребителски профил от "Вход" в горния десен ъгъл на екрана. Главен файл, съдържащ картата TOPO LAT GPS
+  - за да се обнови трябва да се влезне с акаунта си в karta.bg и от там да се свали. За да се купи карта (с поддръжка за 1, 2 години или доживот) се дава информация GPS устройстовото (сериен номер) и съответното картата ще работи само на това устройство (заключена е по този номер). Та ако реша да продам устройството за да може новият собственик да сваля карти ще трябва да му дам и акаунта си. Не съм сигурен как стои въпросът за платени карти от друг източник. Устройството ми е много старо (Dakota 20), за новите устройства може би и да има приложения, които автоматично да свалят ако е с правилния сериен номер - не съм запознат.
 
 # Как да направим сами Garmin карта от Openstreet maps
 
