@@ -72,6 +72,7 @@ categories: tourism
 - сваляне на записани данни от [Holux M-241](https://wiki.openstreetmap.org/wiki/Holux_M-241) `gpsbabel -r -w -t -i m241 -f /dev/ttyUSB0 -o gpx -F track.gpx` (run with sudo if you don't have access to USB ports)
 - добавяне на GPS координати към снимки на базата на часа на снимката и записан маршрут (gpx) `exiftool -geotag *.gpx *.jpg` или `gpscorrelate -g track.gpx  -O -10800 *.jpg`, други [примери с ExifTool]({% post_url 2019-03-20-exiftool %}).
 - обединяване на GPS координати (gpx файл) и пулс (heart rate) от MiBand 3 (csv файл) посредством [GPX Merge Heartrate](https://github.com/ptanov/gpxmergeheartrate), [сорс код](https://github.com/ptanov/gpxmergeheartrate): `docker run --rm -it -v /etc/timezone:/etc/timezone:ro -v "$(pwd)":/data ptanov/gpxmergeheartrate *.gpx *.csv out && cp out "${PWD##*/}.gpx" && rm -f out`
+- намаляване на броя на точките в един gpx файл (удобно, когато GPS устройството може да рутира, когато точките са по-малко от определен брой): `gpsbabel -i gpx -f Hiking_Tour.gpx -x simplify,count=50 -o gpx -F output50.gpx`
 
 # Синхронизиране на метаданните на снимки с GPS координати (по време)
 
